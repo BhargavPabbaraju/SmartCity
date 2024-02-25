@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8e215439-4a96-4d8d-a40f-f2116856fcc7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobs/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobs/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobs/spark-city.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/spark-city.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
